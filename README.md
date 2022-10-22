@@ -1,3 +1,5 @@
+Build Status: [![Build Status](https://dev.azure.com/btab-az400/CalculatorDemo/_apis/build/status/hybridmachine.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/btab-az400/CalculatorDemo/_build/latest?definitionId=5&branchName=refs%2Fpull%2F1%2Fmerge)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
